@@ -7,11 +7,6 @@
     "test": "jest --watch --notify",
     "precommit": "pretty-quick --staged"
   },
-  "husky": {
-    "hooks": {
-      "pre-push": "npm test"
-    }
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nhsz/ejs.git"
@@ -24,7 +19,6 @@
   },
   "homepage": "https://github.com/nhsz/ejs#readme",
   "devDependencies": {
-    "husky": "^1.0.0-rc.2",
     "jest": "^22.4.2",
     "prettier": "^1.11.1",
     "pretty-quick": "^1.4.1"

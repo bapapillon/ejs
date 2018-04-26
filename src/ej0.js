@@ -3,11 +3,11 @@
  * Completar la función `boomerang(x)`
  * que retorna lo que recibe por parametro
  *
- * TEST: `npm test -- ej 0`
+ * TEST: `npm test -- ej0`
  */
 
 function boomerang(x) {
-  // COMPLETAR
+  return x;
 }
 
 // <--- NO TOCAR! --->

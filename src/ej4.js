@@ -21,4 +21,4 @@ function letConst(lista) {
 }
 
 // <--- NO TOCAR! --->
-module.exports = obtenerElMinimoDeLaLista;
+module.exports = letConst;
