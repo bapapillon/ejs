@@ -7,7 +7,7 @@
  */
 
 function saludar() {
-  // COMPLETAR
+  return("hola");
 }
 
 // <--- NO TOCAR! --->
