@@ -7,7 +7,11 @@
  */
 
 function mostrarPares(lista) {
-  // COMPLETAR
+  for(i = 0; i < lista.length; i++) {
+    if (i%2 === 0) {
+      return lista[i];
+    }
+  }
 }
 
 // <--- NO TOCAR! --->
